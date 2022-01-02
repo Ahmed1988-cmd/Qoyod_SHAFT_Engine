@@ -1,0 +1,9 @@
+
+################################################################################################################################################
+Starting Execution:	[2 out of 7] test cases in the current suite
+Test Method:		[tests.Registeration.FirstUserRegister]
+################################################################################################################################################
+[ReportManager] File Action [CreateFile] successfully performed. With the following test data [Target Folder: "allure-results//screenshots/20220102-100245", Target File: "\1641110579705_FirstUserRegister.gif"]. @02-01-2022 10:02:59.0783 AM
+[ReportManager] Element Action [Type] successfully performed. With the following test data [newyear4@gmail.com]. @02-01-2022 10:03:00.0411 AM
+[ReportManager] Element Action [Click] successfully performed. With the following test data [Create an account]. @02-01-2022 10:03:01.0931 AM
+[ReportManager] Successfully created attachment [Animated Gif - FirstUserRegister] @02-01-2022 10:03:01.0931 AM

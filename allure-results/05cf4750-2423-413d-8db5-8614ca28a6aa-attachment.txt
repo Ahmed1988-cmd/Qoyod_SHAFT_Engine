@@ -1,0 +1,8 @@
+
+################################################################################################################################################
+Starting Execution:	[1 out of 7] test cases in the current suite
+Test Method:		[tests.Registeration.FirstUserHomePage]
+################################################################################################################################################
+[ReportManager] File Action [CreateFile] successfully performed. With the following test data [Target Folder: "allure-results//screenshots/20220102-100245", Target File: "\1641110569815_FirstUserHomePage.gif"]. @02-01-2022 10:02:50.0017 AM
+[ReportManager] Element Action [Click] successfully performed. With the following test data [Sign in]. @02-01-2022 10:02:58.0050 AM
+[ReportManager] Successfully created attachment [Animated Gif - FirstUserHomePage] @02-01-2022 10:02:58.0103 AM

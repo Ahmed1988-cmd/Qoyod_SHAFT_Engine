@@ -1,0 +1,12 @@
+
+################################################################################################################################################
+Starting Execution:	[6 out of 7] test cases in the current suite
+Test Method:		[tests.Registeration.FirstUserBuySummerDresses]
+################################################################################################################################################
+[ReportManager] File Action [CreateFile] successfully performed. With the following test data [Target Folder: "allure-results//screenshots/20220102-100245", Target File: "\1641110622491_FirstUserBuySummerDresses.gif"]. @02-01-2022 10:03:42.0595 AM
+[ReportManager] Element Action [Click] successfully performed. With the following test data [DRESSES]. @02-01-2022 10:03:48.0866 AM
+[ReportManager] Element Action [Click] successfully performed. With the following test data [Summer Dresses]. @02-01-2022 10:03:54.0151 AM
+[ReportManager] Element Action [Click] successfully performed. With the following test data [By.xpath: //li[@id='list']//i[@class='icon-th-list']]. @02-01-2022 10:03:55.0950 AM
+[ReportManager] Element Action [Click] successfully performed. With the following test data [Add to cart]. @02-01-2022 10:03:57.0781 AM
+[ReportManager] Element Action [Click] successfully performed. With the following test data [Proceed to checkout]. @02-01-2022 10:04:07.0615 AM
+[ReportManager] Successfully created attachment [Animated Gif - FirstUserBuySummerDresses] @02-01-2022 10:04:07.0626 AM

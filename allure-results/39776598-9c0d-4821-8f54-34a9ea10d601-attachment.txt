@@ -1,0 +1,8 @@
+
+################################################################################################################################################
+Starting Execution:	[4 out of 7] test cases in the current suite
+Test Method:		[tests.Registeration.FirstUserLogOut]
+################################################################################################################################################
+[ReportManager] File Action [CreateFile] successfully performed. With the following test data [Target Folder: "allure-results//screenshots/20220102-100245", Target File: "\1641110604048_FirstUserLogOut.gif"]. @02-01-2022 10:03:24.0127 AM
+[ReportManager] Element Action [Click] successfully performed. With the following test data [Sign out]. @02-01-2022 10:03:31.0596 AM
+[ReportManager] Successfully created attachment [Animated Gif - FirstUserLogOut] @02-01-2022 10:03:31.0596 AM

@@ -1,0 +1,13 @@
+
+################################################################################################################################################
+Starting Execution:	[7 out of 7] test cases in the current suite
+Test Method:		[tests.Registeration.FirstUserpurchaseorder]
+################################################################################################################################################
+[ReportManager] File Action [CreateFile] successfully performed. With the following test data [Target Folder: "allure-results//screenshots/20220102-100245", Target File: "\1641110648049_FirstUserpurchaseorder.gif"]. @02-01-2022 10:04:08.0156 AM
+[ReportManager] Element Action [Click] successfully performed. With the following test data [Proceed to checkout]. @02-01-2022 10:04:13.0821 AM
+[ReportManager] Element Action [Click] successfully performed. With the following test data [Proceed to checkout]. @02-01-2022 10:04:20.0778 AM
+[ReportManager] Element Action [Click] successfully performed. With the following test data [I agree to the terms of service and will adhere to them unconditionally.]. @02-01-2022 10:04:21.0977 AM
+[ReportManager] Element Action [Click] successfully performed. With the following test data [Proceed to checkout]. @02-01-2022 10:04:28.0361 AM
+[ReportManager] Element Action [Click] successfully performed. With the following test data [Pay by bank wire (order processing will be longer)]. @02-01-2022 10:04:34.0874 AM
+[ReportManager] Element Action [Click] successfully performed. With the following test data [I confirm my order]. @02-01-2022 10:04:44.0813 AM
+[ReportManager] Successfully created attachment [Animated Gif - FirstUserpurchaseorder] @02-01-2022 10:04:44.0854 AM

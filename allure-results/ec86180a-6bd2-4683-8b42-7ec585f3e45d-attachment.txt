@@ -1,0 +1,9 @@
+[ReportManager] File Action [GetAbsolutePath] successfully performed. With the following test data [Relative Folder Path: "target/downloadedFiles/"]. @02-01-2022 10:02:31.0354 AM
+[ReportManager] Attempting to run locally on: [Windows-64], [GoogleChrome]. @02-01-2022 10:02:31.0445 AM
+[ReportManager] Identifying OS/Driver combination and selecting the correct driver version automatically. Please note that if a new driver executable will be downloaded it may take some time... @02-01-2022 10:02:31.0445 AM
+[ReportManager] Successfully Opened Google Chrome. @02-01-2022 10:02:37.0488 AM
+[ReportManager] Target URL: [http://automationpractice.com/index.php] @02-01-2022 10:02:37.0911 AM
+[ReportManager] Initial URL: [data:,] @02-01-2022 10:02:38.0183 AM
+[ReportManager] File Action [CreateFile] successfully performed. With the following test data [Target Folder: "allure-results//screenshots/20220102-100245", Target File: "\1641110566214_startdriver.gif"]. @02-01-2022 10:02:47.0346 AM
+[ReportManager] Browser Action [NavigateToURL] successfully performed. With the following test data [http://automationpractice.com/index.php]. @02-01-2022 10:02:48.0734 AM
+[ReportManager] Successfully created attachment [Animated Gif - startdriver] @02-01-2022 10:02:48.0736 AM

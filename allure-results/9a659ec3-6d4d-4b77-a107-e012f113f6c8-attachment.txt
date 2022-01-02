@@ -1,0 +1,20 @@
+
+################################################################################################################################################
+Starting Execution:	[3 out of 7] test cases in the current suite
+Test Method:		[tests.Registeration.FirstUserFillHisDetails]
+################################################################################################################################################
+[ReportManager] File Action [CreateFile] successfully performed. With the following test data [Target Folder: "allure-results//screenshots/20220102-100245", Target File: "\1641110586827_FirstUserFillHisDetails.gif"]. @02-01-2022 10:03:06.0897 AM
+[ReportManager] Element Action [Type] successfully performed. With the following test data [k]. @02-01-2022 10:03:07.0278 AM
+[ReportManager] Element Action [Type] successfully performed. With the following test data [k]. @02-01-2022 10:03:08.0174 AM
+[ReportManager] Element Action [Type] successfully performed. With the following test data [newyear4@gmail.com]. @02-01-2022 10:03:09.0067 AM
+[ReportManager] Element Action [Type] successfully performed. With the following test data [HelloWorld22@]. @02-01-2022 10:03:09.0956 AM
+[ReportManager] Element Action [Type] successfully performed. With the following test data [cd]. @02-01-2022 10:03:10.0845 AM
+[ReportManager] Element Action [Type] successfully performed. With the following test data [lp]. @02-01-2022 10:03:11.0684 AM
+[ReportManager] Element Action [Type] successfully performed. With the following test data [Egypt11111]. @02-01-2022 10:03:12.0600 AM
+[ReportManager] Element Action [Type] successfully performed. With the following test data [Egypt2020000]. @02-01-2022 10:03:13.0509 AM
+[ReportManager] Element Action [Select] successfully performed. With the following test data [Arkansas]. @02-01-2022 10:03:14.0629 AM
+[ReportManager] Element Action [Type] successfully performed. With the following test data [00000]. @02-01-2022 10:03:15.0564 AM
+[ReportManager] Element Action [Type] successfully performed. With the following test data [0122345637]. @02-01-2022 10:03:16.0568 AM
+[ReportManager] Element Action [Type] successfully performed. With the following test data [Cairo2020]. @02-01-2022 10:03:17.0392 AM
+[ReportManager] Element Action [Click] successfully performed. With the following test data [Register]. @02-01-2022 10:03:23.0462 AM
+[ReportManager] Successfully created attachment [Animated Gif - FirstUserFillHisDetails] @02-01-2022 10:03:23.0465 AM
